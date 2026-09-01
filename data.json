@@ -1,0 +1,327 @@
+[
+  {
+    "id": 1,
+    "title": "Mercè Rodoreda",
+    "category": "writers",
+    "country": "Barcelona, Catalunya",
+    "lat": 41.385063,
+    "lng": 2.173404,
+    "date_start": 1908,
+    "date_end": 1983,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd9NFJXHXG3vcQeHCBqhSaB1aY9S2zhqNLDtJOkzIBcw&s=10",
+    "description": "Mercè Rodoreda was a Catalan writer, considered one of the most important in Catalan literature. She is known for her novels, short stories, and poetry, with works such as 'La plaça del Diamant' and 'Mirall trencat'.",
+    "periods": [
+      {
+        "label": "Infància a Barcelona",
+        "date_start": 1908,
+        "date_end": 1920,
+        "description": "Nascuda al barri de Sant Gervasi, va passar la infància entre el pis familiar i la casa dels avis materns, on va descobrir el gust per la literatura i el teatre."
+      },
+      {
+        "label": "Guerra Civil",
+        "date_start": 1936,
+        "date_end": 1939,
+        "description": "Durant la guerra va col·laborar amb el Comissariat de Propaganda i va publicar els seus primers contes. La guerra va marcar profundament la seva escriptura i la va empènyer a l'exili."
+      },
+      {
+        "label": "Exili a França i Suïssa",
+        "date_start": 1939,
+        "date_end": 1972,
+        "description": "Va viure a París i després a Ginebra, en condicions sovint difícils. Va escriure la major part de la seva obra, incloent 'La plaça del Diamant' (1962), llibre que va considerar la seva obra mestra."
+      },
+      {
+        "label": "Retorn a Catalunya",
+        "date_start": 1972,
+        "date_end": 1983,
+        "description": "Va tornar a Catalunya, establint-se a Romanyà de la Selva. Va rebre nombrosos premis i va publicar obres finals com 'Mirall trencat' (1974) i 'Quanta, quanta guerra...' (1980)."
+      }
+    ],
+    "works": [
+      {
+        "title": "La plaça del Diamant",
+        "year": 1962,
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/La_pla%C3%A7a_del_Diamant%2C_D%C3%BAesel_d'azkenaren_etxea.jpg?width=400",
+        "description": "La meva obra preferida. Explica la vida de la Colometa, una dona humil del barri de Gràcia que travessa la República, la guerra i la postguerra. El que m'encanta és com Rodoreda construeix una veu narrativa tan innocent i tan potent alhora, i com la plaça del Diamant es converteix en un personatge més. La descripció de la columbofília del Quimet és absolutament hipnòtica. Volia escriure sobre una dona com la meva mare, una dona que ho aguanta tot."
+      },
+      {
+        "title": "Mirall trencat",
+        "year": 1974,
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mirall_trencat.png?width=400",
+        "description": "Una novel·la corall sobre tres generacions d'una família burgesa, la dels Valldaura. M'agrada com Rodoreda juga amb el temps: el mirall del títol es trenca al principi i tot el llibre és un intent de reconstruir els fragments. Cada personatge té la seva pròpia veu i les seves pròpies ombres. És una obra més freda que la plaça del Diamant, però igualment fascinant."
+      }
+    ],
+    "references": [
+      { "label": "Viquipèdia", "url": "https://ca.wikipedia.org/wiki/Merc%C3%A8_Rodoreda" },
+      { "label": "Fundació Mercè Rodoreda", "url": "https://www.mercerodoreda.com/" }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Antoni Gaudí",
+    "category": "arquitects",
+    "country": "Reus, Catalunya",
+    "lat": 41.154819,
+    "lng": 1.108650,
+    "date_start": 1854,
+    "date_end": 1926,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Antoni_Gaud%C3%AD_%281878%29.jpg/400px-Antoni_Gaud%C3%AD_%281878%29.jpg",
+    "description": "Antoni Gaudí was a renowned Catalan architect known for his distinctive and innovative architectural style. He is best known for his masterpiece, the Sagrada Família in Barcelona, which is a UNESCO World Heritage Site. Gaudí's work is characterized by its organic forms, vibrant colors, and intricate details.",
+    "periods": [
+      {
+        "label": "Formació i primers encàrrecs",
+        "date_start": 1870,
+        "date_end": 1883,
+        "description": "Estudia a l'Escola d'Arquitectura de Barcelona, on ja destaca per la seva manera no convencional de resoldre problemes. Rep influències de l'arquitectura medieval i del món natural, i obté els seus primers encàrrecs: la Casa Vicens i el Palau Güell."
+      },
+      {
+        "label": "Gaudí modernista",
+        "date_start": 1883,
+        "date_end": 1900,
+        "description": "S'integra plenament dins del modernisme català. Assumeix les obres de la Sagrada Família (1883) i dissenya obres com el Col·legi de les Teresianes i el Pavelló de la Companyia Transatlàntica. Comença la relació amb Eusebi Güell, el seu gran mecenes."
+      },
+      {
+        "label": "Maduresa i obra naturalista",
+        "date_start": 1900,
+        "date_end": 1914,
+        "description": "És l'època de les seves grans obres: el Parc Güell (1900-1914), la Casa Batlló (1904-1906) i la Casa Milà / La Pedrera (1906-1912). Aquí desenvolupa el seu llenguatge organicista, amb formes inspirades en la natura, voltes catenàries i trencadís."
+      },
+      {
+        "label": "Sagrada Família i final",
+        "date_start": 1914,
+        "date_end": 1926,
+        "description": "A partir de 1914 es dedica exclusivament a la Sagrada Família, la seva obra magna. Viu al mateix taller de l'església i hi treballa fins a la seva mort el 1926, atropellat per un tramvia. Va deixar només una part construïda i un llegat de models i plànols fonamentals."
+      }
+    ],
+    "works": [
+      {
+        "title": "La Sagrada Família",
+        "year": 1882,
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sagrada_Fam%C3%ADlia_2021.jpg?width=400",
+        "description": "L'obra de la seva vida, un temple expiatori que porta més de 140 anys en construcció. M'apassiona com Gaudí va transformar un projecte neogòtic en una obra totalment personal, inspirant-se en la natura: columnes que semblen arbres, portes que són fulles, torres que s'aixequen com muntanyes. La façana del Naixement, que ell mateix va veure construir, és l'única part acabada sota la seva direcció i impressiona per la seva riquesa escultòrica."
+      },
+      {
+        "title": "Casa Batlló",
+        "year": 1904,
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Casa_Batll%C3%B3.jpg?width=400",
+        "description": "Per mi, la joia del modernisme. La façana ondulada evoca la superfície del mar, el trencadís de vidre i ceràmica fa que la llum hi jugui de mil maneres, i la coberta sembla l'esquena d'un drac. Gaudí hi va experimentar tot el seu repertori orgànic aplicat a un edifici d'habitatges. Les xemeneies del terrat són escultures contemporànies avançades al seu temps."
+      }
+    ],
+    "references": [
+      { "label": "Viquipèdia", "url": "https://ca.wikipedia.org/wiki/Antoni_Gaud%C3%AD" },
+      { "label": "Obra del Gaudi", "url": "https://www.sagradafamilia.org/" }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Pablo Picasso",
+    "category": "artists",
+    "country": "Màlaga, Espanya",
+    "lat": 36.721275,
+    "lng": -4.421399,
+    "date_start": 1881,
+    "date_end": 1973,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Picasso_1908.jpg/400px-Picasso_1908.jpg",
+    "description": "Pablo Picasso was a Spanish painter, sculptor, and printmaker, widely considered one of the most influential artists of the 20th century. He is known for co-founding the Cubist movement and creating iconic works such as 'Guernica' and 'The Weeping Woman'.",
+    "periods": [
+      {
+        "label": "Època blava",
+        "date_start": 1901,
+        "date_end": 1904,
+        "description": "Després del suïcidi del seu amic Carles Casagemas, Picasso s'instal·la a París i entra en una etapa dominada per tons blaus i temes de pobresa, solitud i mort. És l'època de la 'Vida' i dels retrats de rodamóns i dones tristes. És una pintura trista però profundament humana."
+      },
+      {
+        "label": "Època rosa",
+        "date_start": 1904,
+        "date_end": 1906,
+        "description": "A mesura que la seva situació econòmica i sentimental millora, apareixen tons rosats i ocres. Els temes es fan més alegres: circ, salts, arlequins. Coneix Fernande Olivier i comença a experimentar amb la simplificació de les formes."
+      },
+      {
+        "label": "Cubisme",
+        "date_start": 1907,
+        "date_end": 1917,
+        "description": "Amb 'Les senyoretes d'Avinyó' (1907) revoluciona la pintura occidental. Juntament amb Braque desenvolupa el cubisme: descompondre els objectes en múltiples perspectives simultànies sobre el llenç. També introdueix el collage i el papier collé. És, probablement, la revolució més important de l'art del segle XX."
+      },
+      {
+        "label": "Neoclassicisme i surrealisme",
+        "date_start": 1917,
+        "date_end": 1937,
+        "description": "Després de la Primera Guerra Mundial, Picasso torna a figures clàssiques i monumentals (retrats de la seva dona Olga). Més tard col·labora amb els surrealistes i crea obres pertorbadores i escultures. Els anys 30 hi ha la sèrie de Minotauros i les dones que ploren. La vida personal es deteriora mentre l'Europa es dirigeix cap a la catàstrofe."
+      },
+      {
+        "label": "Maduresa i obra tardana",
+        "date_start": 1937,
+        "date_end": 1973,
+        "description": "El bombardeig de Guernica (1937) el porta a crear el seu quadre més famós, un crit contra la guerra. Després de la Segona Guerra Mundial treballa a la Costa Blava, experimenta amb la ceràmica i crea una obra tardana enorme, sovint intimista i sensual. El 1973 mor a Notre-Dame-de-Vie, a Mougins."
+      }
+    ],
+    "works": [
+      {
+        "title": "Guernica",
+        "year": 1937,
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Guernica%2C_by_Pablo_Picasso.jpg?width=400",
+        "description": "Per mi, la millor obra política del segle XX. Picasso pinta el bombardeig de la vila basca de Guernica per part de l'aviació nazi durant la Guerra Civil espanyola. La composició és un caos ordenat: el cavall agonitzant, el toro impassible, la mare que crida amb el fill mort als braços, la dona que crema. És en blanc i negre, com la notícia del diari, i aquesta absència de color fa que l'horror sigui universal. Cada vegada que la miro hi trobo un detall nou."
+      },
+      {
+        "title": "Les senyoretes d'Avinyó",
+        "year": 1907,
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Les_Demoiselles_d%27Avignon.jpg?width=400",
+        "description": "El quadre que va canviar la història de la pintura. Cinc dones del carrer d'Avinyó de Barcelona, nues, amb màscares i cares deformades, en un interior trencat en prismes. Quan el va ensenyar als seus amics, fins i tot Braque va dir que era com si hagués begut petroli. Però sense aquest quadre no existiria el cubisme, ni l'art abstracte tal com el coneixem."
+      },
+      {
+        "title": "La vida",
+        "year": 1903,
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/La_Vie%2C_1903.jpg?width=400",
+        "description": "La culminació de la seva època blava. Una composició al·legòrica on la parella d'enamorats fa front a una mare amb un fill mort a la falda i a unes figures a la part alta. El blau ho impregna tot, però és un blau que parla del dolor de viure. M'agrada perquè és el Picasso més emotiu i menys cerebral, abans que la intel·ligència pictòrica domini per complet el sentiment."
+      }
+    ],
+    "references": [
+      { "label": "Viquipèdia", "url": "https://ca.wikipedia.org/wiki/Pablo_Picasso" },
+      { "label": "Museu Picasso (Barcelona)", "url": "https://www.museupicasso.bcn.cat/" }
+    ]
+  },
+
+  {
+    "id": 4,
+    "title": "Vírginia Woolf",
+    "category": "writers",
+    "country": "Londres, Regne Unit",
+    "lat": 51.5074,
+    "lng": -0.1278,
+    "date_start": 1882,
+    "date_end": 1941,
+    "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSFS24tp2Ir9jHLbW-kDI19IkvAkWghIyWmt0patXGxZAOjImAaq4Lij02a7KBYU5WyXxuy2wM9HNEgsM6ReYJNq3Xxwlu-rMOGSgI0ahJ1R7BaixVAHp_OW63omITKZLVH3VnM1RT-uA&s=19",
+    "description": "Vírginia Woolf was an English novelist, essayist, and feminist, widely considered one of the most influential writers of the 20th century. She is known for her innovative narrative techniques and exploration of consciousness in works such as 'Mrs. Dalloway' and 'o the Lighthouse'.",
+    "periods": [
+      {
+        "label": "Època blava",
+        "date_start": 1901,
+        "date_end": 1904,
+        "description": "Després del suïcidi del seu amic Carles Casagemas, Picasso s'instal·la a París i entra en una etapa dominada per tons blaus i temes de pobresa, solitud i mort. És l'època de la 'Vida' i dels retrats de rodamóns i dones tristes. És una pintura trista però profundament humana."
+      }
+    ],
+    "works": [
+      {
+        "title": "A room of one's own",
+        "year": 1937,
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_Room_of_One's_Own%2C_by_Virginia_Woolf.jpg?width=400",
+        "description": "A groundbreaking work of feminist literature that explores the relationship between women and fiction."
+      }
+    ],
+    "references": [
+      { "label": "Viquipèdia", "url": "https://ca.wikipedia.org/wiki/Vírginia_Woolf" }
+
+      
+    ]
+  },
+
+  {
+    "id": 5,
+    "title": "Fiodr Dostoievski",
+    "category": "writers",
+    "country": "Moscou, Rússia",
+    "lat": 55.755825,
+    "lng": 37.617298,
+    "date_start": 1821,
+    "date_end": 1881,
+    "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSFS24tp2Ir9jHLbW-kDI19IkvAkWghIyWmt0patXGxZAOjImAaq4Lij02a7KBYU5WyXxuy2wM9HNEgsM6ReYJNq3Xxwlu-rMOGSgI0ahJ1R7BaixVAHp_OW63omITKZLVH3VnM1RT-uA&s=19",
+    "description": "Fiodr Dostoievski was a Russian novelist, short story writer, and philosopher, widely considered one of the greatest authors of the 19th century. His works explore the depths of human nature and the complexities of moral and spiritual life.",
+    "periods": [
+      {
+        "label": "Època blava",
+        "date_start": 1901,
+        "date_end": 1904,
+        "description": "Després del suïcidi del seu amic Carles Casagemas, Picasso s'instal·la a París i entra en una etapa dominada per tons blaus i temes de pobresa, solitud i mort. És l'època de la 'Vida' i dels retrats de rodamóns i dones tristes. És una pintura trista però profundament humana."
+      }
+    ],
+    "works": [
+      {
+        "title": "Crim i càstig",
+        "year": 1866,
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Crime_and_Punishment%2C_by_Fyodor_Dostoevsky.jpg?width=400",
+        "description": "A novel that explores the psychological and moral complexities of guilt and redemption."
+      }
+    ],
+    "references": [
+      { "label": "Viquipèdia", "url": "https://ca.wikipedia.org/wiki/Fiodr_Dostoievski" }
+
+      
+    ]
+  }
+
+,
+
+  {
+    "id": 6,
+    "title": "Marie Curie",
+    "category": "scientists",
+    "country": "Varsòvia, Polònia",
+    "lat": 52.229675,
+    "lng": 21.012230,
+    "date_start": 1861,
+    "date_end": 1906,
+    "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSFS24tp2Ir9jHLbW-kDI19IkvAkWghIyWmt0patXGxZAOjImAaq4Lij02a7KBYU5WyXxuy2wM9HNEgsM6ReYJNq3Xxwlu-rMOGSgI0ahJ1R7BaixVAHp_OW63omITKZLVH3VnM1RT-uA&s=19",
+    "description": "Marie Curie was a Polish-born physicist and chemist who pioneered research on radioactivity and was the first woman to win a Nobel Prize.",
+    "periods": [
+      {
+        "label": "Època blava",
+        "date_start": 1901,
+        "date_end": 1904,
+        "description": "Després del suïcidi del seu amic Carles Casagemas, Picasso s'instal·la a París i entra en una etapa dominada per tons blaus i temes de pobresa, solitud i mort. És l'època de la 'Vida' i dels retrats de rodamóns i dones tristes. És una pintura trista però profundament humana."
+      }
+    ],
+    "works": [
+      {
+        "title": "Descobriment del poloni i del radi",
+        "year": 1898,
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Crime_and_Punishment%2C_by_Fyodor_Dostoevsky.jpg?width=400",
+        "description": "A novel that explores the psychological and moral complexities of guilt and redemption."
+      },
+      {
+        "title": "Nobel de Física",
+        "year": 1903,
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Crime_and_Punishment%2C_by_Fyodor_Dostoevsky.jpg?width=400",
+        "description": "A novel that explores the psychological and moral complexities of guilt and redemption."
+      }
+    ],
+    "references": [
+      { "label": "Viquipèdia", "url": "https://ca.wikipedia.org/wiki/Marie_Curie" }
+
+      
+    ]
+  }
+,
+
+  {
+    "id": 7,
+    "title": "Lluís XVI",
+    "category": "kings",
+    "country": "Versalles, França",
+    "lat": 48.801407,
+    "lng": 2.130122,
+    "date_start": 1754,
+    "date_end": 1793,
+    "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSFS24tp2Ir9jHLbW-kDI19IkvAkWghIyWmt0patXGxZAOjImAaq4Lij02a7KBYU5WyXxuy2wM9HNEgsM6ReYJNq3Xxwlu-rMOGSgI0ahJ1R7BaixVAHp_OW63omITKZLVH3VnM1RT-uA&s=19",
+    "description": "Lluís XVI was the King of France from 1774 to 1791, and the last king of France before the French Revolution.",
+    "periods": [
+      {
+        "label": "Època blava",
+        "date_start": 1901,
+        "date_end": 1904,
+        "description": "Després del suïcidi del seu amic Carles Casagemas, Picasso s'instal·la a París i entra en una etapa dominada per tons blaus i temes de pobresa, solitud i mort. És l'època de la 'Vida' i dels retrats de rodamóns i dones tristes. És una pintura trista però profundament humana."
+      }
+    ],
+    "works": [
+      {
+        "title": "Descobriment del poloni i del radi",
+        "year": 1898,
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Crime_and_Punishment%2C_by_Fyodor_Dostoevsky.jpg?width=400",
+        "description": "A novel that explores the psychological and moral complexities of guilt and redemption."
+      }
+    ],
+    "references": [
+      { "label": "Viquipèdia", "url": "https://ca.wikipedia.org/wiki/Lluís_XVI" }
+
+      
+    ]
+  }
+]

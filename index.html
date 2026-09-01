@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Enciclopèdia interactiva</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <h1>Enciclopèdia interactiva</h1>
+    <p class="subtitle">El món segons la Neri.</p>
+  </header>
+
+  <nav class="filters" id="filters" aria-label="Filter by catalog">
+    <!-- buttons injected by script.js -->
+  </nav>
+
+  <main>
+    <section id="map"></section>
+
+    <section class="timeline-wrap" id="global-timeline">
+      <!-- band labels + lanes injected by script.js -->
+    </section>
+  </main>
+
+  <div class="detail-panel" id="detail-panel" hidden>
+    <button class="detail-close" id="detail-close" aria-label="Close">&times;</button>
+    <p class="detail-category" id="detail-category"></p>
+    <h2 id="detail-title"></h2>
+    <p class="detail-meta" id="detail-meta"></p>
+    <img class="detail-image" id="detail-image" alt="" />
+    <p id="detail-description"></p>
+
+    <h3 class="detail-section-title">Periodes de vida</h3>
+    <div class="detail-periods" id="detail-periods"></div>
+
+    <h3 class="detail-section-title">Obres que m'agraden</h3>
+    <div class="detail-works" id="detail-works"></div>
+
+    <h3 class="detail-section-title">Referències</h3>
+    <ul class="detail-references" id="detail-references"></ul>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
